@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YfmUV1l9TZGjOm2cpV34-132" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;categoria&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;categoria_id integer&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;nombre varchar&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="10" y="320" width="160" height="70" as="geometry" />
+          <mxGeometry x="10" y="300" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
